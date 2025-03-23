@@ -17,4 +17,5 @@ This Power BI project analyzes sales data to track trends, revenue, and performa
 🔗 **Check my LinkedIn for more projects:**  
 [Shaileja Karenolla](https://www.linkedin.com/in/shaileja-karenolla-1ba523289)  
 
-
+## certificates
+Certificates/Advanced Excel.jpg
