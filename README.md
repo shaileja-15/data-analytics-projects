@@ -19,5 +19,4 @@ This Power BI project analyzes sales data to track trends, revenue, and performa
 
 ## 📜 Certifications  
 
-🔹 [Excel Advanced Certification](Certificates/excel_certificate.jpg)  
-🔹 [Deloitte Data Analytics Job Simulation](Certificates/deloitte_certificate.jpg)  
+https://github.com/shaileja-15/data-analytics-projects/blob/main/Certificates/Advanced%20Excel.jpg 
